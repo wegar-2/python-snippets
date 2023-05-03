@@ -18,5 +18,5 @@
 14. [Using `NamedTuple`s - Example](./snippets/named_tuple_example.py)
 15. [`sklearn`: Simple `DecisionTreeRegressor` Grid Search Step-by-Step](
 ./snippets/sklearn_simple_decision_tree_regressor_gridsearch.py)
-16. [`sklearn`: Simple `LinearRegression` Grid Search Step-by-Step]() - tbd
-17. [`sklearn`: Simple `GradientBoostingRegressor` Grid Search Step-by-Step]() - tbd
+16. [`sklearn`: Simple `GradientBoostingRegressor` Grid Search Step-by-Step](
+./snippets/sklearn_simple_gradient_boosting_regressor_gridsearch.py)
