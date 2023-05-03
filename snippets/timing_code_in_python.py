@@ -11,6 +11,7 @@ def my_sum(n=10_000_000):
         s += k
     return s
 
+
 if __name__ == "__main__":
 
     # ----| Approach 1: use perf_counter --- just do two measurement for a single call of the tested function
@@ -20,3 +21,7 @@ if __name__ == "__main__":
 
     # ----| Approach 2: use timeit.timeit func for testing
     print(timeit.timeit(my_sum, number=10))
+
+
+# References:
+#   1) https://realpython.com/python-timer/#estimating-running-time-with-timeit
