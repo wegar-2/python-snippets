@@ -6,10 +6,10 @@
 3. [Get a Powerset of a Given Set](./snippets/get_powerset_of_set.py)
 4. [`__new__` and `__init__`: Brief Overview](./snippets/new_vs_init.py)
 5. [Metaclasses in Python](./snippets/metaclasses_in_python.py)
-6. [Getters and Setters in Python]() - tbd
+6. [Getters and Setters vs Properties in Python Classes](./snippets/getters_and_setters_in_python.py)
 7. [Decorators - Overview]() - tbd
 8. [Generic Classes in Python](./snippets/generic_classes_in_python.py)
-9. [`dataclasses` - Intro]() - tbd
-10. [`pydantic` - Intro]() - tbd
-11. [Enumerations with `Enum`]() - tbd
+9. [`dataclasses` - Basics]() - tbd
+10. [`pydantic` - Basics]() - tbd
+11. [Enumerations with `Enum`](./snippets/basics_of_enumerations.py)
 12. [Using `NamedTuple`s - Example]() - tbd
