@@ -14,3 +14,7 @@ print(f"res1: {l_res0}")
 
 # chain: multiple iterables are passed to it, they get concatenated
 # chain.from_iterable: single iterable is passed, its elements get concatenated
+
+
+# References:
+#   1) https://stackoverflow.com/questions/15004772/what-is-the-difference-between-chain-and-chain-from-iterable-in-itertools

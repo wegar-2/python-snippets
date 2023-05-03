@@ -45,3 +45,7 @@ if __name__ == "__main__":
     print(f"Inheritance message for class {AnotherClass.__name__}: {AnotherClass.__bases__}")
     obj3 = AnotherClass()
 
+
+# References:
+#   1) https://www.pythontutorial.net/python-oop/python-__new__/
+#   2) https://realpython.com/python-class-constructor/
