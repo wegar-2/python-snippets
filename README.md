@@ -12,7 +12,11 @@
 8. [Decorators - Part 2]() - tbd
 9. [Generic Classes in Python](./snippets/generic_classes_in_python.py)
 10. [`dataclasses` - Basics]() - tbd
-11. [`pydantic` - Basics]() - tbd
+11. [`pydantic` - Basics](./snippets/pydantic_example.py)
 12. [Enumerations with `Enum`](./snippets/basics_of_enumerations.py)
-13. [Using `NamedTuple`s - Example](./snippets/named_tuple_example.py)
-14. [`sklearn`: Simple Model Step-by-Step]() - tbd
+13. [Create Enumeration from Dictionary]()
+14. [Using `NamedTuple`s - Example](./snippets/named_tuple_example.py)
+15. [`sklearn`: Simple `DecisionTreeRegressor` Grid Search Step-by-Step](
+./snippets/sklearn_simple_decision_tree_regressor_gridsearch.py)
+16. [`sklearn`: Simple `LinearRegression` Grid Search Step-by-Step]() - tbd
+17. [`sklearn`: Simple `GradientBoostingRegressor` Grid Search Step-by-Step]() - tbd
